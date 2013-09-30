@@ -4,17 +4,15 @@
     android:layout_height="match_parent"
     tools:context=".FlashWebview" >
 
-    <TextView
-        android:id="@+id/text"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-    
-    <WebView 
-        android:id="@+id/webveiw"
-        android:layout_width="640px"
-        android:layout_height="480px"
-        android:layout_marginLeft="300px"
-        android:layout_below="@id/text"/>
-
+	<Button 
+	    android:id="@+id/btn_webplayer"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/play_flash_in_web"/>
+	<Button
+	    android:id="@+id/btn_viewpager"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/viewpager_webview_flash"
+	    android:layout_below="@id/btn_webplayer"/>"
 </RelativeLayout>

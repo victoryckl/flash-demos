@@ -22,6 +22,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.example.flash_webview.WebPlayer"/>
+        <activity android:name="com.example.flash_webview.ViewPagerPlayer"/>
     </application>
 
 </manifest>

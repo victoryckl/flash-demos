@@ -1,11 +1,17 @@
 package com.example.flash_webview;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import android.os.Bundle;
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Color;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebSettings.PluginState;
@@ -14,27 +20,37 @@ public class FlashWebview extends Activity {
 
 	private static final String TAG = FlashWebview.class.getSimpleName();
 	
-	private WebView mWebView;
-
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_flash_webview);
 		
-		mWebView = (WebView)findViewById(R.id.webveiw);
-		webSettings(mWebView);
-		mWebView.loadUrl("file:///android_asset/short.html");
+		initViews();
 	}
 	
-	private void webSettings(WebView view) {
-		WebSettings s = view.getSettings();
-		
-		s.setJavaScriptEnabled(true);
-		s.setPluginState(PluginState.ON);
-		s.setTextZoom(100);
-		
-		view.setBackgroundColor(0xffffff00);
+	private void initViews() {
+		findViewById(R.id.btn_webplayer).setOnClickListener(mBtnOnClickListener);
+		findViewById(R.id.btn_viewpager).setOnClickListener(mBtnOnClickListener);
 	}
+	
+	private OnClickListener mBtnOnClickListener = new OnClickListener() {
+		@Override
+		public void onClick(View v) {
+			Intent intent = new Intent();
+			switch (v.getId()) {
+			case R.id.btn_webplayer:
+				intent.setClass(FlashWebview.this, WebPlayer.class);
+				startActivity(intent);
+				break;
+			case R.id.btn_viewpager:
+				intent.setClass(FlashWebview.this, ViewPagerPlayer.class);
+				startActivity(intent);
+				break;
+			default:
+				break;
+			}
+		}
+	};
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -54,17 +70,5 @@ public class FlashWebview extends Activity {
 			break;
 		}
 		return super.onMenuItemSelected(featureId, item);
-	}
-	
-	@Override
-	protected void onResume() {
-		super.onResume();
-		mWebView.resumeTimers();
-	}
-	
-	@Override
-	protected void onPause() {
-		mWebView.pauseTimers();
-		super.onPause();
 	}
 }
