@@ -50,7 +50,7 @@ function checkMicNames() {
 		mic_names.text = "deviceArray is null";
 		return ;
 	}
-	return ;
+
 	trace("Available sound input devices:");
 	mic_names.text = "Available sound input devices:";
 	for (var i:int = 0; i < deviceArray.length; i++)
