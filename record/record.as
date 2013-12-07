@@ -62,7 +62,6 @@ function checkMicNames() {
 
 function get_Microphone() {
 	var mic:Microphone = Microphone.getMicrophone();
-	mic.addEventListener(StatusEvent.STATUS, onMicStatus);
 	if (mic == null) {
 		trace("get mic failed, maybe no mic!");
 		mic_status.text = "get mic failed, maybe no mic!";
