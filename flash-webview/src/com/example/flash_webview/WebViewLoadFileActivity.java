@@ -1,0 +1,43 @@
+package com.example.flash_webview;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.webkit.WebView;
+
+public class WebViewLoadFileActivity extends Activity {
+	private static final String TAG = WebViewLoadFileActivity.class.getSimpleName();
+	
+	private WebView mWebView;
+	private String mHtmlPath = "file:///sdcard/a.html";
+	private String mSwfPath  = "file:///sdcard/a.swf";
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_webview_load_file);
+		
+		init();
+	}
+
+	private void init() {
+		findViewById(R.id.btn_back).setOnClickListener(mBtnClickListener);
+		mWebView = (WebView)findViewById(R.id.wv_webview);
+		WebViewSet.settings(mWebView);
+		mWebView.loadUrl(mHtmlPath);
+	}
+	
+	private OnClickListener mBtnClickListener = new OnClickListener() {
+		@Override
+		public void onClick(View v) {
+			switch (v.getId()) {
+			case R.id.btn_back:
+				finish();
+				break;
+			default:
+				break;
+			}
+		}
+	};
+}

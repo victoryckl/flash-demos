@@ -24,6 +24,7 @@
         </activity>
         <activity android:name="com.example.flash_webview.WebPlayer"/>
         <activity android:name="com.example.flash_webview.ViewPagerPlayer"/>
+        <activity android:name="com.example.flash_webview.WebViewLoadFileActivity"/>
     </application>
 
 </manifest>
