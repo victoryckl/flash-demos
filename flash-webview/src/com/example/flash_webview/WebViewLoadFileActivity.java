@@ -26,6 +26,9 @@ public class WebViewLoadFileActivity extends Activity {
 		findViewById(R.id.btn_back).setOnClickListener(mBtnClickListener);
 		mWebView = (WebView)findViewById(R.id.wv_webview);
 		WebViewSet.settings(mWebView);
+		FullscreenableChromeClient mFullscreenableChromeClient = new FullscreenableChromeClient(this);
+//		mWebView.setWebViewClient(new MyWebViewClient());
+		mWebView.setWebChromeClient(mFullscreenableChromeClient);
 		mWebView.loadUrl(mHtmlPath);
 	}
 	
