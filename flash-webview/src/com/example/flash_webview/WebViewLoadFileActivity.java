@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.ViewGroup;
 import android.webkit.WebView;
 
 public class WebViewLoadFileActivity extends Activity {
@@ -40,4 +41,25 @@ public class WebViewLoadFileActivity extends Activity {
 			}
 		}
 	};
+	
+	@Override
+	protected void onResume() {
+		mWebView.onResume();
+		super.onResume();
+	};
+	
+	@Override
+	protected void onPause() {
+		mWebView.onPause();
+		super.onPause();
+	}
+	
+	@Override
+	protected void onDestroy() {
+		ViewGroup vg = (ViewGroup) mWebView.getParent();
+		vg.removeView(mWebView);
+		mWebView.removeAllViews();
+		mWebView.destroy();
+		super.onDestroy();
+	}
 }
