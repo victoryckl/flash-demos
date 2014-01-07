@@ -6,5 +6,6 @@
     <string name="menu_settings">Settings</string>
     <string name="play_flash_in_web">页面中播放flash</string>
     <string name="viewpager_webview_flash">ViewPager添加WebView播放来Flash</string>
-	<string name="webview_load_file">WebView Load File</string>
+	<string name="webview_load_file">WebView Load Html File</string>
+	<string name="webview_load_swf_file">WebView Load Swf</string>
 </resources>

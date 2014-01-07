@@ -32,6 +32,7 @@ public class FlashWebview extends Activity {
 		findViewById(R.id.btn_webplayer).setOnClickListener(mBtnOnClickListener);
 		findViewById(R.id.btn_viewpager).setOnClickListener(mBtnOnClickListener);
 		findViewById(R.id.btn_load_file).setOnClickListener(mBtnOnClickListener);
+		findViewById(R.id.btn_load_swf).setOnClickListener(mBtnOnClickListener);
 	}
 	
 	private OnClickListener mBtnOnClickListener = new OnClickListener() {
@@ -49,6 +50,10 @@ public class FlashWebview extends Activity {
 				break;
 			case R.id.btn_load_file:
 				intent.setClass(FlashWebview.this, WebViewLoadFileActivity.class);
+				startActivity(intent);
+				break;
+			case R.id.btn_load_swf:
+				intent.setClass(FlashWebview.this, WebViewLoadSwfActivity.class);
 				startActivity(intent);
 				break;
 			default:

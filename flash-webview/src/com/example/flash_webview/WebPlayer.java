@@ -27,8 +27,6 @@ public class WebPlayer extends Activity {
 		mWebView = (WebView)findViewById(R.id.webveiw);
 		webSettings(mWebView);
 		mWebView.loadUrl("file:///android_asset/short.html");
-		List<String> l = new ArrayList<String>();
-		
 	}
 	
 	private void webSettings(WebView view) {

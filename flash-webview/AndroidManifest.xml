@@ -25,6 +25,11 @@
         <activity android:name="com.example.flash_webview.WebPlayer"/>
         <activity android:name="com.example.flash_webview.ViewPagerPlayer"/>
         <activity android:name="com.example.flash_webview.WebViewLoadFileActivity"/>
+        <activity 
+            android:name="com.example.flash_webview.WebViewLoadSwfActivity"
+            android:windowSoftInputMode="adjustUnspecified|stateHidden"
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"/>
+        
     </application>
 
 </manifest>

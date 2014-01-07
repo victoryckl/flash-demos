@@ -6,19 +6,29 @@
 
 	<Button 
 	    android:id="@+id/btn_webplayer"
-	    android:layout_width="wrap_content"
+	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
+	    android:minHeight="60dp"
 	    android:text="@string/play_flash_in_web"/>
 	<Button
 	    android:id="@+id/btn_viewpager"
-	    android:layout_width="wrap_content"
+	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
+	    android:minHeight="60dp"
 	    android:text="@string/viewpager_webview_flash"
 	    android:layout_below="@id/btn_webplayer"/>
 	<Button
 	    android:id="@+id/btn_load_file"
-	    android:layout_width="wrap_content"
+	    android:layout_width="match_parent"
 	    android:layout_height="wrap_content"
+	    android:minHeight="60dp"
 	    android:text="@string/webview_load_file"
 	    android:layout_below="@id/btn_viewpager"/>
+	<Button
+	    android:id="@+id/btn_load_swf"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:minHeight="60dp"
+	    android:text="@string/webview_load_swf_file"
+	    android:layout_below="@id/btn_load_file"/>
 </RelativeLayout>

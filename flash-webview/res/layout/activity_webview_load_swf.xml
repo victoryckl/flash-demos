@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <LinearLayout
+        android:id="@+id/ll_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_choose_file"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择文件"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/et_path"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="/sdcard/h.html"
+            android:textSize="20sp" />
+        
+	    <Button
+	        android:id="@+id/btn_play"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="播       放"
+	        android:textSize="20sp" />
+    </LinearLayout>
+
+    <WebView 
+        android:layout_below="@id/ll_layout"
+        android:id="@+id/wv_webview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout> -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_choose_file"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择文件"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/et_path"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="/sdcard/h.html"
+            android:textSize="20sp" />
+        
+	    <Button
+	        android:id="@+id/btn_play"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="播       放"
+	        android:textSize="20sp" />
+    </LinearLayout>
+
+    <WebView 
+        android:id="@+id/wv_webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
