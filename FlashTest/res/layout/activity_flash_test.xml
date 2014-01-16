@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FlashTestActivity" >
+
+        <Button 
+            android:id="@+id/btn_flash_white"
+            android:text="加载swf时闪白屏"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button 
+            android:id="@+id/btn_flash_slide"
+            android:text="flash中滑动异常（这个flash在电脑上可以正常滑动的）"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+</LinearLayout>
