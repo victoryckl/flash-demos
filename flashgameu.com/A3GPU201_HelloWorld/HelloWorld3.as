@@ -1,0 +1,1 @@
+﻿package {	import flash.display.*;	import flash.text.*;	public class HelloWorld3 extends MovieClip {		public function HelloWorld3() {			var myText:TextField = new TextField();			myText.text = "Hello World!";			addChild(myText);		}	}}

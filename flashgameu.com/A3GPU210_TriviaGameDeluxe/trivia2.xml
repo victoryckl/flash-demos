@@ -1,0 +1,505 @@
+<trivia>
+	<item category="Entertainment">
+		<question>In what seaside town did Alfred Hitchcock’s 1963 movie “The Birds” take place?</question>
+		<answers>
+			<answer>Bodega Bay</answer>
+			<answer>Half moon Bay</answer>
+			<answer>Carmel</answer>
+			<answer>Monterey Bay</answer>
+		</answers>
+		<hint>The spanish word for a small grocery store.</hint>
+		<fact>Located in Sonoma County, California just north of San Francisco it was discovered in 1775 by the Spanish explorer Juan Francisco de la Bodega y Quadra.</fact>
+	</item>
+	
+	<item category="Entertainment">
+		<question>What movie was the first to win the Academy Award in 1929?</question>
+		<answers>
+			<answer>Wings</answer>
+			<answer>All Quiet on the Western Front</answer>
+			<answer>It Happened One Night</answer>
+			<answer>Grand Hotel</answer>
+		</answers>
+		<hint>Also the name of a popular TV show that ran from 1990 - 1997.</hint>
+		<fact>In the first year of the Academy Awards (1927-28, awarded in 1929), there was no "Best Picture" award, but two different categories.</fact>
+	</item>
+	
+	<item category="Entertainment">
+		<question>What book won the Pulitzer Prize in 1937?</question>
+		<answers>
+			<answer>Gone With the Wind</answer>
+			<answer>Laughing Boy</answer>
+			<answer>Now in November</answer>
+			<answer>The Yearling</answer>
+		</answers>
+		<hint>Was made into an Oscar winning film in 1939.</hint>
+		<fact>It was the only book that Margaret Mitchell published in her lifetime, but it became one of the best selling American novels of the 20th century selling 1,500,000 copies in its first year.</fact>
+	</item>
+	
+	<item category="Entertainment">
+		<question>Who is known as the original drummer of the Beatles?</question>
+		<answers>
+			<answer>Pete Best</answer>
+			<answer>Ringo Starr</answer>
+			<answer>Stu Sutcliffe</answer>
+			<answer>George Harrison</answer>
+		</answers>
+		<hint>Was fired before the Beatles hit it big in the 60s.</hint>
+		<fact>Pete stayed until shortly after their first audition for EMI in 1962, but was fired on August 16th of that year, to be replaced by Ringo Starr.</fact>
+	</item>
+	
+	<item category="History">
+		<question>What was Mata Hari’s real name?</question>
+		<answers>
+			<answer>Gertrude Margarete Zelle</answer>
+			<answer>Harriet Juno Baker</answer>
+			<answer>Mary Elizabeth Bromfeld</answer>
+			<answer>Mary Celeste Marseilles</answer>
+		</answers>
+		<hint>Another nickname she could have gone by was Trudy.</hint>
+		<fact>This World War 1 spy was executed by the French in 1917.</fact>
+	</item>
+	
+	<item category="History">
+		<question>In what year did the battle of Bunker Hill take place?</question>
+		<answers>
+			<answer>1775</answer>
+			<answer>1770</answer>
+			<answer>1773</answer>
+			<answer>1778</answer>
+		</answers>
+		<hint>It happened one year before the US declared it’s independence</hint>
+		<fact>Although the battle is known as "Bunker Hill", most of the fighting actually took place on the nearby Breed's Hill.</fact>
+	</item>
+	
+	<item category="History">
+		<question>What ship rests in the bottom of Pearl Harbor?</question>
+		<answers>
+			<answer>USS Arizona</answer>
+			<answer>USS Iowa</answer>
+			<answer>USS Wisconsin</answer>
+			<answer>USS Kentucky</answer>
+		</answers>
+		<hint>Was also the 48th state admitted into the U.S. and the last of the contiguous states admitted.</hint>
+		<fact>The USS Arizona Memorial, dedicated in 1962, spans the sunken hull of the battleship without touching it. The 19,585 pound anchor of the Arizona is displayed at the entrance of the visitor center.</fact>
+	</item>
+	
+	<item category="History">
+		<question>Who was the principal author of the Declaration of Independence?</question>
+		<answers>
+			<answer>Thomas Jefferson</answer>
+			<answer>Abraham Lincoln</answer>
+			<answer>Benjamin Franklin</answer>
+			<answer>John Adams</answer>
+		</answers>
+		<hint>Was also our third president	</hint>
+		<fact>The committee decided that Jefferson would write the draft, which he showed to Franklin and Adams. Franklin himself made at least 48 corrections.</fact>
+	</item>
+	
+	<item category="Sports">
+		<question>Which Baseball Stadium did no one ever pitch a no-hit game?</question>
+		<answers>
+			<answer>Forbes Field</answer>
+			<answer>Yankee Stadium</answer>
+			<answer>Wrigley Field</answer>
+			<answer>Veteran’s Stadium</answer>
+		</answers>
+		<hint>Also the name of a magazine</hint>
+		<fact>Since the Pittsburgh Pirates moved to Three Rivers Stadium in 1970, the record seems secure.</fact>
+	</item>
+	
+	<item category="Sports">
+		<question>Who was one of the first 5 members elected to the Baseball Hall of Fame?</question>
+		<answers>
+			<answer>Babe Ruth</answer>
+			<answer>Hank Aaron</answer>
+			<answer>Jackie Robinson</answer>
+			<answer>Pete Rose</answer>
+		</answers>
+		<hint>One of his nicknames was “The Bambino”</hint>
+		<fact>In 1936 the first five members to elected were Ty Cobb, Babe Ruth, Honus Wagner, Christy Mathewson and Walter Johnson.</fact>
+	</item>
+	
+	<item category="Sports">
+		<question>How many dimples are there on a golf ball?</question>
+		<answers>
+			<answer>336</answer>
+			<answer>502</answer>
+			<answer>146</answer>
+			<answer>200</answer>
+		</answers>
+		<hint>The square root is 18.3303028</hint>
+		<fact>The minimum diameter allowed is 42.67 mm and it’s mass may not exceed 45.93 g.</fact>
+	</item>
+	
+	<item category="Sports">
+		<question>In which city is the Rose Bowl played?</question>
+		<answers>
+			<answer>Pasadena</answer>
+			<answer>Santa Monica</answer>
+			<answer>Huntington Beach</answer>
+			<answer>Anaheim</answer>
+		</answers>
+		<hint>This city was mentioned in a Beach Boys song about a little old lady.</hint>
+		<fact>Originally titled the "Tournament East-West football game," the Rose Bowl was first played on January 1, 1902, starting the tradition of New Years Day bowl games.</fact>
+	</item>
+	
+	<item category="Science">
+		<question>What is most abundant on the earth’s surface?</question>
+		<answers>
+			<answer>Water</answer>
+			<answer>Land</answer>
+			<answer>Ice</answer>
+			<answer>Chocolate</answer>
+		</answers>
+		<hint>Also known as H20</hint>
+		<fact>Water composes 70-75% of the Earth's surface as liquid and solid state in addition to being found in the atmosphere as a vapor.</fact>
+	</item>
+	
+	<item category="Science">
+		<question>The galaxy is in what shape?</question>
+		<answers>
+			<answer>A flat spiral</answer>
+			<answer>A ball</answer>
+			<answer>A box</answer>
+			<answer>A doughnut</answer>
+		</answers>
+		<hint>A curve which emanates from a central point.</hint>
+		<fact>The Milky Way has four spiral arms radiating out from a central cluster of stars. Our solar system is located on one of the spiral arms, quite far from the center.</fact>
+	</item>
+	
+	<item category="Science">
+		<question>What do sharks not have that most other fish do?</question>
+		<answers>
+			<answer>Bones</answer>
+			<answer>Fins</answer>
+			<answer>Teeth</answer>
+			<answer>Heart</answer>
+		</answers>
+		<hint>The nickname of Star Trek character Dr. Leonard McCoy	</hint>
+		<fact>Sharks are made of cartilage, which is softer and more flexible than bone.</fact>
+	</item>
+	
+	<item category="Geography">
+		<question>What is the capitol of Costa Rica?</question>
+		<answers>
+			<answer>San Jose</answer>
+			<answer>Liberia</answer>
+			<answer>Puntarenas</answer>
+			<answer>Cartago</answer>
+		</answers>
+		<hint>Also the name of a California city</hint>
+		<fact>San Jose was a very small village until 1824 when it was made the capital.</fact>
+	</item>
+	
+	<item category="Geography">
+		<question>The Grand Canyon is located in what state?</question>
+		<answers>
+			<answer>Arizona</answer>
+			<answer>New Mexico</answer>
+			<answer>Utah</answer>
+			<answer>Nevada</answer>
+		</answers>
+		<hint>The official gemstone of this state is Turquoise.</hint>
+		<fact>The first recorded sighting of the Grand Canyon was in 1540, García López de Cárdenas from Spain.</fact>
+	</item>
+	
+	<item category="Geography">
+		<question>What is the name of the boundary between Pennsylvania and Maryland?</question>
+		<answers>
+			<answer>Mason-Dixon Line</answer>
+			<answer>Mississippi River</answer>
+			<answer>Penn-Mar Line</answer>
+			<answer>The Border</answer>
+		</answers>
+		<hint>Part of the name refers to a popular type of jar.</hint>
+		<fact>Named for Charles Mason and Jeremiah Dixon who surveyed the area from 1763-1767.</fact>
+	</item>
+	
+	<item category="Grab Bag">
+		<question>What city is the board game Monopoly based on?</question>
+		<answers>
+			<answer>Atlantic City, NJ</answer>
+			<answer>Manhattan, NY</answer>
+			<answer>Ocean City, NJ</answer>
+			<answer>Syracuse, NY</answer>
+		</answers>
+		<hint>You can also gamble in this city</hint>
+		<fact>Monopoly is published by Parker Brothers. Since Charles Darrow patented the game in 1935, approximately 750 million people have played the game, making it the most played [commercial] board game in the world.</fact>
+	</item>
+	
+	<item category="Grab Bag">
+		<question>What system is used in libraries to catalog their books?</question>
+		<answers>
+			<answer>Dewey Decimal System</answer>
+			<answer>Library of Congress Classification</answer>
+			<answer>Universal Decimal Classification</answer>
+			<answer>International Standard Book Number</answer>
+		</answers>
+		<hint>One of Donald Duck’s Nephews</hint>
+		<fact>Developed by Melvil Dewey in 1876, and since greatly modified and expanded in the course of the twenty-two major revisions, the most recent in 2004.</fact>
+	</item>
+	
+	<item category="Grab Bag">
+		<question>Who wrote Pride and Prejudice?</question>
+		<answers>
+			<answer>Jane Austen</answer>
+			<answer>Emily Bronte</answer>
+			<answer>Anne Bronte</answer>
+			<answer>Charlotte Bronte</answer>
+		</answers>
+		<hint>This author did not have any famous sisters.</hint>
+		<fact>First published on January 28 1813, its manuscript was first written between 1796 and 1797, and was initially called First Impressions, but was never published under that title.</fact>
+	</item>
+	
+	<item category="Grab Bag">
+		<question>What is the most popular vegetable?</question>
+		<answers>
+			<answer>Potatoes</answer>
+			<answer>Lettuce</answer>
+			<answer>Tomatoes</answer>
+			<answer>Onions</answer>
+		</answers>
+		<hint>The starchiest choice</hint>
+		<fact>The average American eats about 126 pounds of potatoes a year!</fact>
+	</item>
+
+	<item category="Science">
+		<question>Who won the 1921 Nobel Prize for Physics?</question>
+		<answers>
+			<answer>Albert Einstein</answer>
+			<answer>Robert A. Millikan</answer>
+			<answer>Niels Bohr</answer>
+			<answer>Charles Edouard Guillaume</answer>
+		</answers>
+		<hint>E=mc2</hint>
+		<fact>The Federal Bureau of Investigation had a file containing 1,427 pages about Albert Einstein.</fact>
+	</item>
+
+	<item category="Science">
+		<question>Fluorescent lights need to be recycled because they contain amounts of this element?</question>
+		<answers>
+			<answer>Mercury</answer>
+			<answer>Neon</answer>
+			<answer>Tungsten</answer>
+			<answer>Copper</answer>
+		</answers>
+		<hint>There's a planet with the same name</hint>
+		<fact>CFL's use at least 2/3 less energy than standard incandescent bulbs to provide the same amount of light, and last up to 10 times longer.</fact>
+	</item>
+
+	<item category="Grab Bag">
+		<question>Knitting requires two needles, how many tools does crochet use?</question>
+		<answers>
+			<answer>1</answer>
+			<answer>0</answer>
+			<answer>2</answer>
+			<answer>4</answer>
+		</answers>
+		<hint>It's equal to being the best at something.</hint>
+		<fact>Crocheted fabric uses 1/3 more yarn than knitted fabric using the same thickness of yarn.</fact>
+	</item>
+
+	<item category="Sports">
+		<question>Unlike American football, this action is not permitted in rugby.</question>
+		<answers>
+			<answer>Forward passing of the ball down the field.</answer>
+			<answer>Dribbling the ball down the field</answer>
+			<answer>Juggling the ball</answer>
+			<answer>Punting the ball</answer>
+		</answers>
+		<hint>Quarterback</hint>
+		<fact>Rugby league is regarded as the national sport of Papua New Guinea.</fact>
+	</item>
+
+	<item category="Science">
+		<question>What color are contacts tinted to make them visible in cleaning/storage solution?</question>
+		<answers>
+			<answer>Blue</answer>
+			<answer>Green</answer>
+			<answer>Orange</answer>
+			<answer>Yellow</answer>
+		</answers>
+		<hint>The sky on a clear day</hint>
+		<fact>Modern contact lenses were invented by the Czech chemist Otto Wichterle, who also invented the first gel used for their production.</fact>
+	</item>
+
+	<item category="Entertainment">
+		<question>How many dice are used to determine who moves in backgammon?</question>
+		<answers>
+			<answer>2</answer>
+			<answer>1</answer>
+			<answer>3</answer>
+			<answer>4</answer>
+		</answers>
+		<hint>It's the same as the number of players</hint>
+		<fact>Backgammon and similar games date back as far as 3000 BC.</fact>
+	</item>
+
+	<item category="Entertainment">
+		<question>Who starred in the popular 1975-1979 television adaptation Wonder Woman?</question>
+		<answers>
+			<answer>Lynda Carter</answer>
+			<answer>Farrah Faucet</answer>
+			<answer>Marilyn Monroe</answer>
+			<answer>Julia Roberts</answer>
+		</answers>
+		<hint>There was a president with the same last name.</hint>
+		<fact>A storyline in which Wonder Woman (a.k.a. "Princess Diana") was killed in combat was on sale when Diana, Princess of Wales died unexpectedly in a car crash.</fact>
+	</item>
+
+	<item category="Science">
+		<question>Ligers are half lion and half tiger. What trait do they share with tigers, but not lions?</question>
+		<answers>
+			<answer>Like to swim</answer>
+			<answer>Have a mane</answer>
+			<answer>Hunt at night</answer>
+			<answer>Live in prides</answer>
+		</answers>
+		<hint>They don't need a life jacket</hint>
+		<fact>First reports of ligers are from 1823. Three ligers were born in Oct. 1823 in England to an African lion and an Asiatic tigress.</fact>
+	</item>
+
+	<item category="Science">
+		<question>Pluto was recently demoted to a dwarf planet. What is the name of its primary moon?</question>
+		<answers>
+			<answer>Charon</answer>
+			<answer>Huron</answer>
+			<answer>Neptune</answer>
+			<answer>Boron</answer>
+		</answers>
+		<hint>It's easy to see.</hint>
+		<fact>Discovered by American astronomer Clyde Tombaugh in 1930, Pluto takes 248 years to orbit the Sun.</fact>
+	</item>
+
+	<item category="History">
+		<question>From 1948-1964 Benjamin Franklin's face was on this U.S. coin. How much was it worth?</question>
+		<answers>
+			<answer>Half dollar or 50 cents</answer>
+			<answer>Dollar</answer>
+			<answer>Quarter</answer>
+			<answer>Dime</answer>
+		</answers>
+		<hint>There's a rapper by the same name.</hint>
+		<fact>Benjamin Franklin is credited with inventing the Franklin stove, lightning rod, and bifocals. The city of Philadelphia owns 5000 likenesses of him.</fact>
+	</item>
+
+	<item category="Science">
+		<question>In U.S. liquid measurement, how many cups are in a gallon?</question>
+		<answers>
+			<answer>16</answer>
+			<answer>4</answer>
+			<answer>18</answer>
+			<answer>24</answer>
+		</answers>
+		<hint>It's the same as the age most people learn to drive</hint>
+		<fact>A 1/2 barrel keg of beer is equal to 15.5 gallons or 248 cups.</fact>
+	</item>
+
+	<item category="History">
+		<question>What word can by typed on the top row of the Qwerty keyboard?</question>
+		<answers>
+			<answer>Typewriter</answer>
+			<answer>Remington</answer>
+			<answer>America</answer>
+			<answer>Easy</answer>
+		</answers>
+		<hint>It helped salesman sell typewriters.</hint>
+		<fact>The Qwerty keyboard design was patented by Christopher Sholes in 1868.</fact>
+	</item>
+
+	<item category="Science">
+		<question>What part of the body is inflamed if you have arthritis?</question>
+		<answers>
+			<answer>The joints</answer>
+			<answer>Mouth</answer>
+			<answer>Stomach</answer>
+			<answer>Ears</answer>
+		</answers>
+		<hint>They often crack</hint>
+		<fact>Arthritis disables more people than any other chronic disorder.</fact>
+	</item>
+
+	<item category="Science">
+		<question>What tool is used to cut diamonds?</question>
+		<answers>
+			<answer>Other diamonds</answer>
+			<answer>Laser</answer>
+			<answer>Really sharp blade</answer>
+			<answer>Hatchet</answer>
+		</answers>
+		<hint>Seems wasteful</hint>
+		<fact>Diamond is made from carbon and is the hardest naturally occurring substance known to man.</fact>
+	</item>
+
+	<item category="Science">
+		<question>What object do asteroids orbit?</question>
+		<answers>
+			<answer>Sun</answer>
+			<answer>Earth</answer>
+			<answer>Moon</answer>
+			<answer>Jupiter</answer>
+		</answers>
+		<hint>It likes to be in the spotlight because it's a star</hint>
+		<fact>Ceres is the largest asteroid and was discovered in 1801 by Giuseppi Piazzi.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>What is the only U.S. state that borders Maine?</question>
+		<answers>
+			<answer>New Hampshire</answer>
+			<answer>Vermont</answer>
+			<answer>Massachusetts</answer>
+			<answer>New York</answer>
+		</answers>
+		<hint>It's not an old state</hint>
+		<fact>Maine shares more miles of border with Canada than the U.S.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>What European country is said to look like a boot?</question>
+		<answers>
+			<answer>Italy</answer>
+			<answer>Greece</answer>
+			<answer>France</answer>
+			<answer>England</answer>
+		</answers>
+		<hint>They make great pasta</hint>
+		<fact>Italy, as a state, did not exist until the unification of the country came to a conclusion in 1861.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>Kuwait is bordered by only two countries. One is a kingdom, name it?</question>
+		<answers>
+			<answer>Saudi Arabia</answer>
+			<answer>Iraq</answer>
+			<answer>United Arab Emirates</answer>
+			<answer>Iran</answer>
+		</answers>
+		<hint>Each year thousands of Muslims make a pilgrimage to Mecca, in this country.</hint>
+		<fact>Saudi Arabia is the world's leading petroleum producer and exporter.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>Vancouver is located in what Canadian Province north of Washington state?</question>
+		<answers>
+			<answer>British Columbia</answer>
+			<answer>Saskatchewan</answer>
+			<answer>Alberta</answer>
+			<answer>Manitoba</answer>
+		</answers>
+		<hint>Not to be mistaken with England</hint>
+		<fact>The 2010 Winter Olympics will be held in Vancouver and nearby Whistler.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>Alaska is closest to what Asian country?</question>
+		<answers>
+			<answer>Russia</answer>
+			<answer>China</answer>
+			<answer>Japan</answer>
+			<answer>Mongolia</answer>
+		</answers>
+		<hint>The like they're vodka there.</hint>
+		<fact>As of April 2007, there has been talk of building a tunnel that would connect Alaska and Russia via the Bering Strait.</fact>
+	</item>
+</trivia>

@@ -1,0 +1,1 @@
+﻿package {	import flash.display.*;		public class MatchingGame1 extends MovieClip {		public function MatchingGame1():void {			for(var x:uint=0;x<6;x++) {				for(var y:uint=0;y<6;y++) {					var thisCard:Card = new Card();					thisCard.stop();					thisCard.x = x*52+120;					thisCard.y = y*52+45;					addChild(thisCard);				}			}		}			}}

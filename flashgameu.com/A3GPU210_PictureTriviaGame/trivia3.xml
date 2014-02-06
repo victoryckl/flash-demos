@@ -1,0 +1,31 @@
+<trivia>
+	<item>
+		<question type="text">Who is known as the original drummer of the Beatles?</question>
+		<answers>
+			<answer type="text">Pete Best</answer>
+			<answer type="text">Ringo Starr</answer>
+			<answer type="text">Stu Sutcliffe</answer>
+			<answer type="text">George Harrison</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question type="text">Which one is an equilateral triangle?</question>
+		<answers>
+			<answer type="file">equilateral.swf</answer>
+			<answer type="file">right.swf</answer>
+			<answer type="file">isosceles.swf</answer>
+			<answer type="file">scalene.swf</answer>
+		</answers>
+	</item>
+
+	<item>
+		<question type="file">italy.swf</question>
+		<answers>
+			<answer type="text">Italy</answer>
+			<answer type="text">France</answer>
+			<answer type="text">Greece</answer>
+			<answer type="text">Fenwick</answer>
+		</answers>
+	</item>
+</trivia>

@@ -1,0 +1,121 @@
+<trivia>
+	<item category="Entertainment">
+		<question>Who is known as the original drummer of the Beatles?</question>
+		<answers>
+			<answer>Pete Best</answer>
+			<answer>Ringo Starr</answer>
+			<answer>Stu Sutcliffe</answer>
+			<answer>George Harrison</answer>
+		</answers>
+		<hint>Was fired before the Beatles hit it big.</hint>
+		<fact>Pete stayed until shortly after their first audition for EMI in 1962, but was fired on August 16th of that year, to be replaced by Ringo Starr.</fact>
+	</item>
+	
+	<item category="History">
+		<question>What ship rests in the bottom of Pearl Harbor?</question>
+		<answers>
+			<answer>USS Arizona</answer>
+			<answer>USS Iowa</answer>
+			<answer>USS Wisconsin</answer>
+			<answer>USS Kentucky</answer>
+		</answers>
+		<hint>Was also the 48th state admitted into the U.S. and the last of the contiguous states admitted.</hint>
+		<fact>The USS Arizona Memorial, dedicated in 1962, spans the sunken hull of the battleship without touching it. The 19,585 pound anchor of the Arizona is displayed at the entrance of the visitor center.</fact>
+	</item>
+	
+	<item category="Entertainment">
+		<question>In what seaside town did Alfred Hitchcock’s 1963 movie “The Birds” take place?</question>
+		<answers>
+			<answer>Bodega Bay</answer>
+			<answer>Half moon Bay</answer>
+			<answer>Carmel</answer>
+			<answer>Monterey Bay</answer>
+		</answers>
+		<hint>The spanish word for a small grocery store.</hint>
+		<fact>Located in Sonoma County, California just north of San Francisco it was discovered in 1775 by the Spanish explorer Juan Francisco de la Bodega y Quadra.</fact>
+	</item>
+	
+	<item category="History">
+		<question>Who was the principal author of the Declaration of Independence?</question>
+		<answers>
+			<answer>Thomas Jefferson</answer>
+			<answer>Abraham Lincoln</answer>
+			<answer>Benjamin Franklin</answer>
+			<answer>John Adams</answer>
+		</answers>
+		<hint>Was also our third president	</hint>
+		<fact>The committee decided that Jefferson would write the draft, which he showed to Franklin and Adams. Franklin himself made at least 48 corrections. Jefferson then produced another copy incorporating these changes, and the committee presented this copy to the Continental Congress on June 28, 1776.</fact>
+	</item>
+
+	<item category="Sports">
+		<question>Who was one of the first 5 members elected to the Baseball Hall of Fame?</question>
+		<answers>
+			<answer>Babe Ruth</answer>
+			<answer>Hank Aaron</answer>
+			<answer>Jackie Robinson</answer>
+			<answer>Pete Rose</answer>
+		</answers>
+		<hint>One of his nicknames was “The Bambino”</hint>
+		<fact>In 1936 the first five members to elected were Ty Cobb, Babe Ruth, Honus Wagner, Christy Mathewson and Walter Johnson.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>What is the capitol of Costa Rica?</question>
+		<answers>
+			<answer>San Jose</answer>
+			<answer>Liberia</answer>
+			<answer>Puntarenas</answer>
+			<answer>Cartago</answer>
+		</answers>
+		<hint>Also the name of a California city</hint>
+		<fact>San Jose was a very small village until 1824. In that year, Costa Rica's first elected head of state, Juan Mora Fernández, decided to move the government of Costa Rica from the old Spanish colonial capital of Cartago and make a fresh start with a new city.</fact>
+	</item>
+	
+	<item category="Grab Bag">
+		<question>What system is used in libraries to catalog their books?</question>
+		<answers>
+			<answer>Dewey Decimal System</answer>
+			<answer>Library of Congress Classification</answer>
+			<answer>Universal Decimal Classification</answer>
+			<answer>International Standard Book Number</answer>
+		</answers>
+		<hint>One of Donald Duck’s Nephews</hint>
+		<fact>Developed by Melvil Dewey in 1876, and since greatly modified and expanded in the course of the twenty-two major revisions, the most recent in 2004.</fact>
+	</item>
+	
+	<item category="Science">
+		<question>Who won the 1921 Nobel Prize for Physics?</question>
+		<answers>
+			<answer>Albert Einstein</answer>
+			<answer>Robert A. Millikan</answer>
+			<answer>Niels Bohr</answer>
+			<answer>Charles Edouard Guillaume</answer>
+		</answers>
+		<hint>E=mc2</hint>
+		<fact>The Federal Bureau of Investigation had a file containing 1,427 pages about Albert Einstein.</fact>
+	</item>
+
+	<item category="History">
+		<question>From 1948-1964 Benjamin Franklin's face was on this U.S. coin. How much was it worth?</question>
+		<answers>
+			<answer>Half dollar or 50 cents</answer>
+			<answer>Dollar</answer>
+			<answer>Quarter</answer>
+			<answer>Dime</answer>
+		</answers>
+		<hint>There's a rapper by the same name.</hint>
+		<fact>Benjamin Franklin is credited with inventing the Franklin stove, lightning rod, and bifocals. The city of Philadelphia owns 5000 likenesses of him.</fact>
+	</item>
+
+	<item category="Geography">
+		<question>Vancouver is located in what Canadian Province north of Washington state?</question>
+		<answers>
+			<answer>British Columbia</answer>
+			<answer>Saskatchewan</answer>
+			<answer>Alberta</answer>
+			<answer>Manitoba</answer>
+		</answers>
+		<hint>Not to be mistaken with England</hint>
+		<fact>The 2010 Winter Olympics will be held in Vancouver and nearby Whistler.</fact>
+	</item>	
+</trivia>

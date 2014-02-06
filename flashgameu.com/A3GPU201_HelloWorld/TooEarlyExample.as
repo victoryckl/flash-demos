@@ -1,0 +1,1 @@
+﻿package {	import flash.display.*;	import flash.text.*;		public class TooEarlyExample extends MovieClip {				public function TooEarlyExample() {			gotoAndStop(2);			this.textFieldOne.text = "This is text field one.";		}				public function setSomeText() {			this.textFieldTwo.text = "This is text field two.";		}	}}

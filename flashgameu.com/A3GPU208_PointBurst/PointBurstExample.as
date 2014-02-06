@@ -1,0 +1,1 @@
+﻿package {	import flash.display.*;	import flash.events.*;		public class PointBurstExample extends MovieClip {				public function PointBurstExample() {			stage.addEventListener(MouseEvent.CLICK,tryPointBurst);		}				public function tryPointBurst(event:MouseEvent) {			var pb:PointBurst = new PointBurst(this,100,mouseX,mouseY);		}	}}

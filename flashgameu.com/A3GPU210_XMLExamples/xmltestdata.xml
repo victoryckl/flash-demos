@@ -1,0 +1,46 @@
+<trivia>
+
+	<item>
+		<question>
+			Which planet is closest to the sun?
+		</question>
+		<answers>
+			<answer>
+				Mercury
+			</answer>
+			<answer>
+				Venus
+			</answer>
+			<answer>
+				Mars
+			</answer>
+			<answer>
+				Saturn
+			</answer>
+		</answers>
+	</item>
+	
+	<item>
+		<question>
+			Which of these planets does not have rings?
+		</question>
+		<answers>
+			<answer>
+				Venus
+			</answer>
+			<answer>
+				Neptune
+			</answer>
+			<answer>
+				Saturn
+			</answer>
+			<answer>
+				Jupiter
+			</answer>
+		</answers>
+	</item>
+	
+</trivia>
+				
+			
+		
