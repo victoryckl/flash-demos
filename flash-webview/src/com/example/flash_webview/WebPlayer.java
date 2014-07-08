@@ -1,17 +1,10 @@
 package com.example.flash_webview;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import android.os.Bundle;
 import android.app.Activity;
-import android.graphics.Color;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.os.Bundle;
 import android.webkit.WebSettings;
-import android.webkit.WebView;
 import android.webkit.WebSettings.PluginState;
+import android.webkit.WebView;
 
 public class WebPlayer extends Activity {
 
@@ -37,26 +30,6 @@ public class WebPlayer extends Activity {
 		s.setTextZoom(100);
 		
 		view.setBackgroundColor(0xffffff00);
-	}
-
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		getMenuInflater().inflate(R.menu.activity_flash_webview, menu);
-		return true;
-	}
-	
-	@Override
-	public boolean onMenuItemSelected(int featureId, MenuItem item) {
-		switch (item.getOrder()) {
-		case 100:
-			Log.i(TAG, item.toString());
-			WebPlayer.this.finish();
-			break;
-
-		default:
-			break;
-		}
-		return super.onMenuItemSelected(featureId, item);
 	}
 	
 	@Override

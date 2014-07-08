@@ -1,20 +1,10 @@
 package com.example.flash_webview;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
-import android.graphics.Color;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.webkit.WebSettings;
-import android.webkit.WebView;
-import android.webkit.WebSettings.PluginState;
 
 public class FlashWebview extends Activity {
 
@@ -61,24 +51,4 @@ public class FlashWebview extends Activity {
 			}
 		}
 	};
-
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		getMenuInflater().inflate(R.menu.activity_flash_webview, menu);
-		return true;
-	}
-	
-	@Override
-	public boolean onMenuItemSelected(int featureId, MenuItem item) {
-		switch (item.getOrder()) {
-		case 100:
-			Log.i(TAG, item.toString());
-			FlashWebview.this.finish();
-			break;
-
-		default:
-			break;
-		}
-		return super.onMenuItemSelected(featureId, item);
-	}
 }

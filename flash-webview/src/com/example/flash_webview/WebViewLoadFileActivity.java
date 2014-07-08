@@ -1,5 +1,7 @@
 package com.example.flash_webview;
 
+import com.example.utils.AssetUtils;
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
@@ -23,6 +25,9 @@ public class WebViewLoadFileActivity extends Activity {
 	}
 
 	private void init() {
+		AssetUtils.copyFile(getAssets(), "a.html", "/sdcard/a.html");
+		AssetUtils.copyFile(getAssets(), "a.swf", "/sdcard/a.swf");
+		
 		findViewById(R.id.btn_back).setOnClickListener(mBtnClickListener);
 		mWebView = (WebView)findViewById(R.id.wv_webview);
 		WebViewSet.settings(mWebView);
